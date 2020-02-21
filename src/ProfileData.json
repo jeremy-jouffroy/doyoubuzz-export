@@ -1,0 +1,95 @@
+{
+  "Name": "Jérémy Jouffroy",
+  "JobRoles": [
+    "Developer",
+    "Marketer",
+    "Analyst"
+  ],
+  "BusinessTypes": [
+    "Online Support",
+    "Content Publisher",
+    "Ecommerce",
+    "Lead Generation"
+  ],
+  "IsOptedInToEmails": true,
+  "CourseProgress": [
+    {
+      "CourseName": "Google Analytics for Beginners",
+      "StartDate": 20190702,
+      "CourseCompleted": true,
+      "CertificateDate": 20200129,
+      "AssessmentsProgress": [
+        {
+          "Title": "Assessment 1",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 2",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 3",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 4",
+          "Passed": true
+        }
+      ]
+    },
+    {
+      "CourseName": "Advanced Google Analytics",
+      "StartDate": 20200130,
+      "CourseCompleted": true,
+      "CertificateDate": 20200204,
+      "AssessmentsProgress": [
+        {
+          "Title": "Assessment 1",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 2",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 3",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 4",
+          "Passed": true
+        }
+      ]
+    },
+    {
+      "CourseName": "Google Analytics for Power Users",
+      "StartDate": 20200204,
+      "CourseCompleted": true,
+      "CertificateDate": 20200207,
+      "AssessmentsProgress": [
+        {
+          "Title": "Assessment 1",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 2",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 3",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 4",
+          "Passed": true
+        }
+      ]
+    },
+    {
+      "CourseName": "Introduction to Data Studio",
+      "StartDate": 20200212,
+      "CourseCompleted": false,
+      "AssessmentsProgress": []
+    }
+  ]
+}
